@@ -1,0 +1,6 @@
+@media (max-width: 768px){
+    .show{
+        width: 100vw;
+        padding: 30px;
+    }
+}
